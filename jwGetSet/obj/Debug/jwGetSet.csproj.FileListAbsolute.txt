@@ -1,0 +1,15 @@
+c:\users\abitowhit.abow1\documents\visual studio 2013\Projects\jwGetSet\jwGetSet\obj\Debug\jwGetSet.csprojResolveAssemblyReference.cache
+C:\Users\abitowhit.abow1\documents\visual studio 2013\Projects\jwGetSet\jwGetSet\bin\Debug\247Coding.ico
+C:\Users\abitowhit.abow1\documents\visual studio 2013\Projects\jwGetSet\jwGetSet\bin\Debug\WhitClsBldr.dll
+C:\Users\abitowhit.abow1\documents\visual studio 2013\Projects\jwGetSet\jwGetSet\bin\Debug\WhitClsBldr.pdb
+C:\Users\abitowhit.abow1\documents\visual studio 2013\Projects\jwGetSet\jwGetSet\bin\Debug\CrypLib.dll
+C:\Users\abitowhit.abow1\documents\visual studio 2013\Projects\jwGetSet\jwGetSet\bin\Debug\CrypLib.pdb
+C:\Users\abitowhit.abow1\documents\visual studio 2013\Projects\jwGetSet\jwGetSet\obj\Debug\WhitClsBldr.dll
+C:\Users\abitowhit.abow1\documents\visual studio 2013\Projects\jwGetSet\jwGetSet\obj\Debug\WhitClsBldr.pdb
+C:\xfer\lab\!GITHUB\GetSet\jwGetSet\bin\Debug\247Coding.ico
+C:\xfer\lab\!GITHUB\GetSet\jwGetSet\bin\Debug\WhitClsBldr.dll
+C:\xfer\lab\!GITHUB\GetSet\jwGetSet\bin\Debug\WhitClsBldr.pdb
+C:\xfer\lab\!GITHUB\GetSet\jwGetSet\bin\Debug\CrypLib.pdb
+C:\xfer\lab\!GITHUB\GetSet\jwGetSet\obj\Debug\jwGetSet.csprojResolveAssemblyReference.cache
+C:\xfer\lab\!GITHUB\GetSet\jwGetSet\obj\Debug\WhitClsBldr.dll
+C:\xfer\lab\!GITHUB\GetSet\jwGetSet\obj\Debug\WhitClsBldr.pdb
