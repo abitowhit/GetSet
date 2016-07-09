@@ -1,0 +1,90 @@
+﻿body 
+{
+    background-color:Silver;
+    font-family:'Helvetica';
+    font-size:large;
+    color:#888888;
+
+}
+
+ ._PanelRounded {
+			box-shadow: 3px 4px 5px #888888;	
+        background-image: -webkit-linear-gradient(top, white 0%, #EDEBEB 35%, white 100%);
+		color:#333;
+		border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        border-bottom-right-radius: 8px;
+        border-bottom-left-radius: 8px;
+		border-width:1px;
+        border-style: solid;
+        border-color:silver;
+        text-align: left;
+        border-image-source: none;
+        -webkit-transform-origin: 50% 50%;
+        -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        -webkit-transform-style: preserve-3d;
+        margin:4px 4px 4px 4px;
+        padding:4px 4px 4px 4px;
+   
+}
+      
+  ._PanelRounded:hover {
+border-color: silver gray silver gray;
+      }
+      
+
+.tbox
+{
+    font-size:x-large;
+    float:left;
+    background-color:#CCDCCC;
+    color:#404040;
+		border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+        border-bottom-left-radius: 4px;
+		box-shadow: 2px 2px 2px #443E3E;
+}
+
+._PlainSheet
+{
+		font-size:small;
+		background-color:White;
+		color:Black;
+		border-width:1px;
+		border-style:solid;
+		border-color:Black;
+		border-top-left-radius: 2px;
+        border-top-right-radius: 2px;
+        border-bottom-right-radius: 2px;
+        border-bottom-left-radius: 2px;
+		box-shadow: 3px 3px 3px #333;
+		padding:12px;
+		float:left;
+		margin:2px 2px 2px 2px;
+		
+}
+._PanelLight
+{
+        verticalalign:top;
+		font-size:small;
+		background-color:#D7D5D5;
+		color:Black;
+        background-image: -webkit-linear-gradient(bottom, silver 0%, white 35%,silver 100%);
+		border-width:5px;
+		border-style:solid;
+		border-color:Silver;
+		border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+		box-shadow: 5px 5px 5px #333;
+		padding:5px;
+		float:left;
+		margin:4px;
+		
+}
+
+
+
+
