@@ -1,6 +1,6 @@
 # GetSet
 247Coding.com - Class builder code and website for building classes. You can find video links on usage and functionality including zip download at http://247Coding.com.
-
+Page name is cbDemo.aspx.  If you want it to be the landing page, either set the IIS default page to cbDemo.aspx instead of default.asxp or rename it to default.aspx.  Either way will work.
 
 # Web
 ![GetSet](https://github.com/abitowhit/GetSet/blob/master/GetSetSmall.png)
