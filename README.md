@@ -2,8 +2,8 @@
 247Coding.com - Class builder code and website for building classes. You can find video links on usage and functionality including zip download at http://247Coding.com.
 
 
-# Video on using GetSet
-![GetSet Video](https://youtu.be/WoA-MJC0Nvs)
+# Web
+![GetSet](https://github.com/abitowhit/GetSet/blob/master/GetSetSmall.png)
 
 
 ## Overview
@@ -38,6 +38,7 @@ Standard .net web application.
 * .net 4.5 but will probalby work with other libs. Nothing really .net version specific.
 * Create application or website in IIS manager that points to the file path of the files.
 * MySQL connections require the mySQL libraries, availble on client installation.
+![GetSet IIS](https://github.com/abitowhit/GetSet/blob/master/GetSetIIS.png)
 
 ## License
 
